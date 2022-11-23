@@ -1,0 +1,25 @@
+﻿{
+	"name": "New project",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 318,
+	"viewport-height": 481,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "244",
+	"used-plugins": [
+		"Audio",
+		"Browser",
+		"Rex_Date",
+		"Sprite",
+		"Text",
+		"TiledBg",
+		"Touch"
+	],
+	"used-behaviors": [
+		"Anchor"
+	]
+}
